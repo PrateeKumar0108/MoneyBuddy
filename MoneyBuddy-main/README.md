@@ -426,11 +426,11 @@ flutter build apk --release
 
 ## Developer
 
-**Ehsan Ali**
+**Prateek Kumar**
 Final Year B.Tech Computer Science
 AKGEC Ghaziabad, Uttar Pradesh
 
-GitHub: [github.com/originehsan](https://github.com/originehsan)
+
 
 ---
 
